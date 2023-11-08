@@ -1,0 +1,23 @@
+
+body{
+    background: #000;
+    color: #eee;
+}
+
+
+
+h1{
+    letter-spacing: -10px;
+    color: palevioletred;
+    
+}
+button:hover{
+    background-color: green;
+}
+button{
+   background-color:  blue;
+    color: #eee;
+    transition: all 400ms;
+
+
+}
